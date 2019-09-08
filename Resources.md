@@ -32,6 +32,9 @@ https://youtu.be/2UYx-qjJGSs
 Cross Validation:
 https://youtu.be/fSytzGwwBVw
 
+FastAI
+http://course18.fast.ai/lessonsml1/lessonsml1.html
+
 
 ## Deep Learning 
 
