@@ -5,6 +5,9 @@
 Python Tutorial for Beginners [Full Course] 2019
 https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
+Python Tutorial for Programmers - Python Crash Course
+https://www.youtube.com/watch?v=f79MRyMsjrQ
+
 Learn Python - Full Course for Beginners [Tutorial]
 https://www.youtube.com/watch?v=rfscVS0vtbw
 
