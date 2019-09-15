@@ -45,3 +45,8 @@ http://course18.fast.ai/lessonsml1/lessonsml1.html
 ## Deep Learning 
 
 ## BigData
+
+## Web Design
+
+Creating and Hosting a Personal Site on GitHub
+http://jmcglone.com/guides/github-pages/
