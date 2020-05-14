@@ -1,4 +1,4 @@
-# 100-days-of-ml-code
+# 100-days-of-ml-code : done in May 2020
 
 The log of my 100 Days Of Code 
 
